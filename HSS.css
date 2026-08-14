@@ -132,12 +132,16 @@ body {
     border-radius: 15px;
 }
 
+.project-item .hobby-image {
+    width: 100%;
+}
+
 .box-item {
     display: flex;
     align-items: center;
 }
 
-.themes {
+.themes, .fact {
     margin: 0px 20px;
 }
 
