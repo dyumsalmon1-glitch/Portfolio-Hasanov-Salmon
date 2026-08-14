@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://avatars.mds.yandex.net/i?id=8722028310e78175b8eaf0e6de1016bd_l-7178390-images-thumbs&n=13);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+    background: #929292bd;
+    padding: 40px 0;
+}
+
+.mcimg {
+    width: 480px;
+    margin-left: 530px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+h2 {
+    margin-bottom: 30px;
+    padding: 10px 0;
+    color: rgb(170, 169, 169);
+    font-size: 50px;
+    background: #00000077;
+}
+
+.t2 {
+    font-size: 26px;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
+section {
+    background-color: rgba(0, 0, 0, 0.379);
+}
+
+ul {
+    padding: 20px 20px;
+    color: #e0dfdf;
+    font-size: 20px;
+}
+
+ul li {
+    padding: 20px 30px;
+}
+
+.t3 {
+    background: #0000009e;
+    padding: 20px 20px;
+}
+
+.t3 a {
+    color: #107b08;
+    font-size: 40px;
+}
